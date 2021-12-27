@@ -1,0 +1,36 @@
+.main_title {
+    background-image: url("../images/pattern.webp");
+    color: khaki;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.section_brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.section_frames h2 {
+    background-color: lightcoral;
+}
+
+.section_paint h2 {
+    background-color: skyblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+strong.buy_value {
+    font-weight: bold;
+    color: blue;
+}
